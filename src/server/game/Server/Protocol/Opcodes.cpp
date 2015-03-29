@@ -137,7 +137,7 @@ void OpcodeTable::InitializeClientTable()
     //DEFINE_OPCODE_HANDLER(CMSG_CALENDAR_EVENT_RSVP,                0x0000, STATUS_UNHANDLED, PROCESS_THREADUNSAFE, &WorldSession::HandleCalendarEventRsvp           ); // 5.4.8 - 18414
     //DEFINE_OPCODE_HANDLER(CMSG_CALENDAR_EVENT_SIGNUP,              0x0000, STATUS_UNHANDLED, PROCESS_THREADUNSAFE, &WorldSession::HandleCalendarEventSignup         ); // 5.4.8 - 18414
     //DEFINE_OPCODE_HANDLER(CMSG_CALENDAR_EVENT_STATUS,              0x0000, STATUS_UNHANDLED, PROCESS_THREADUNSAFE, &WorldSession::HandleCalendarEventStatus         ); // 5.4.8 - 18414
-    //DEFINE_OPCODE_HANDLER(CMSG_CALENDAR_GET_CALENDAR,              0x0000, STATUS_UNHANDLED, PROCESS_THREADUNSAFE, &WorldSession::HandleCalendarGetCalendar         ); // 5.4.8 - 18414
+    DEFINE_OPCODE_HANDLER(CMSG_CALENDAR_GET_CALENDAR,              0x0A37, STATUS_UNHANDLED, PROCESS_THREADUNSAFE, &WorldSession::HandleCalendarGetCalendar          );
     //DEFINE_OPCODE_HANDLER(CMSG_CALENDAR_GET_EVENT,                 0x0000, STATUS_UNHANDLED, PROCESS_THREADUNSAFE, &WorldSession::HandleCalendarGetEvent            ); // 5.4.8 - 18414
     //DEFINE_OPCODE_HANDLER(CMSG_CALENDAR_GET_NUM_PENDING,           0x0000, STATUS_UNHANDLED, PROCESS_THREADUNSAFE, &WorldSession::HandleCalendarGetNumPending       ); // 5.4.8 - 18414
     //DEFINE_OPCODE_HANDLER(CMSG_CALENDAR_GUILD_FILTER,              0x0000, STATUS_UNHANDLED, PROCESS_THREADUNSAFE, &WorldSession::HandleCalendarGuildFilter         ); // 5.4.8 - 18414
