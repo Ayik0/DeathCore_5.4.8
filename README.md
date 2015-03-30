@@ -25,20 +25,18 @@ Esta é a nova source da DeathCore que estamos atualizando devagar, adicionando 
 
 [maps](https://mega.co.nz/#!ylUWkJpC!uWhX1yVfjCElxMnHl21JHdhbmk5_BF3U7vgDmuelO4c)
 
+[mmaps](#)
+
 [vmaps](https://mega.co.nz/#!j4MQ3YrC!Vm7HGpPLGWcNUh3oCMZf_zChgVhyKlSqUv9pUmK7Pj8)
 
 ##Mist Of Pandaria 5.4.8 - Client
  
-[DeathCore Client](#)
+[DeathCore_5.4.8_Client_Conection_Patch](https://mega.co.nz/#!alE2UBbR!pRGBWCMJbPuZyI6pnDRXD5jnjxrYnfDbguqsadm60iU)
 
 Observações:
 - O DeathCore Client será usado apenas para quem tem o cliente de qualquer versão anterior completa, basta extrai-lo na pasta do mesmo.
 
 [Cliente Completo - Mist Of Pandaria 5.4.8 - Client - Build 18418](https://wow.freakz.ro/wow/548/wow_freakz_548.torrent)
-
-##Databases
-
-[Todas as Databases - NDP-DB 5.4.8.x (Alpha) - Em Breve](*#*)
 
 =====================
 
