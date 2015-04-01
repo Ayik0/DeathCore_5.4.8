@@ -112,9 +112,9 @@ extern int main(int argc, char** argv)
 
     TC_LOG_INFO("server.authserver", "%s (authserver)", _FULLVERSION);
     TC_LOG_INFO("server.authserver", "<Ctrl-C> to stop.\n");
-	TC_LOG_INFO("	D E A T H");
-    TC_LOG_INFO("              C O R E 5.4.8");
-    TC_LOG_INFO("http://www.noffearrdeathproject.net \n");
+	TC_LOG_INFO("server.authserver", "	D E A T H");
+    TC_LOG_INFO("server.authserver", "              C O R E 5.4.8");
+    TC_LOG_INFO("server.authserver", "http://www.noffearrdeathproject.net \n");
 
     TC_LOG_INFO("server.authserver", "Using configuration file %s.", configFile);
 

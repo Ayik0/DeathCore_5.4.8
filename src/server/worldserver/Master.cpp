@@ -128,9 +128,9 @@ int Master::Run()
 
     TC_LOG_INFO("server.worldserver", "%s (worldserver-daemon)", _FULLVERSION);
     TC_LOG_INFO("server.worldserver", "<Ctrl-C> to stop.\n");
-	TC_LOG_INFO("	D E A T H");
-    TC_LOG_INFO("              C O R E 5.4.8");
-    TC_LOG_INFO("http://www.noffearrdeathproject.net \n");
+	TC_LOG_INFO("server.worldserver", "	D E A T H");
+    TC_LOG_INFO("server.worldserver", "              C O R E 5.4.8");
+    TC_LOG_INFO("server.worldserver", "http://www.noffearrdeathproject.net \n");
 
     /// worldserver PID file creation
     std::string pidFile = sConfigMgr->GetStringDefault("PidFile", "");
