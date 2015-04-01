@@ -1,7 +1,5 @@
 /*
  * Copyright (C) 2013-2015 DeathCore <http://www.noffearrdeathproject.net/>
- * Copyright (C) 2008-2014 TrinityCore <http://www.trinitycore.org/>
- * Copyright (C) 2005-2014 MaNGOS <http://getmangos.com/>
  *
  * This program is free software; you can redistribute it and/or modify it
  * under the terms of the GNU General Public License as published by the
@@ -114,7 +112,9 @@ extern int main(int argc, char** argv)
 
     TC_LOG_INFO("server.authserver", "%s (authserver)", _FULLVERSION);
     TC_LOG_INFO("server.authserver", "<Ctrl-C> to stop.\n");
-    
+	TC_LOG_INFO("	D E A T H");
+    TC_LOG_INFO("              C O R E 5.4.8");
+    TC_LOG_INFO("http://www.noffearrdeathproject.net \n");
 
     TC_LOG_INFO("server.authserver", "Using configuration file %s.", configFile);
 

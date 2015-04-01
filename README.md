@@ -21,15 +21,15 @@ Esta é a nova source da DeathCore que estamos atualizando devagar, adicionando 
 
 ##Arquivos Necessários
 
-[dbc](https://mega.co.nz/#!i80jkDIY!2ctYKS6QBMJU3zRRv4WBMpUHPpb3XwUmQy_UqswjMik)
+[Dbc](https://mega.co.nz/#!i80jkDIY!2ctYKS6QBMJU3zRRv4WBMpUHPpb3XwUmQy_UqswjMik)
 
-[maps](https://mega.co.nz/#!ylUWkJpC!uWhX1yVfjCElxMnHl21JHdhbmk5_BF3U7vgDmuelO4c)
+[Maps](https://mega.co.nz/#!ylUWkJpC!uWhX1yVfjCElxMnHl21JHdhbmk5_BF3U7vgDmuelO4c)
 
-[mmaps](#)
+[Mmaps](https://mega.co.nz/#!OpNBmJ4D!kqpGNKSeDNby9Mnr_iNoktAx9uxlPA6yW8fEZnp93-c)
 
-[vmaps](https://mega.co.nz/#!j4MQ3YrC!Vm7HGpPLGWcNUh3oCMZf_zChgVhyKlSqUv9pUmK7Pj8)
+[Vmaps](https://mega.co.nz/#!j4MQ3YrC!Vm7HGpPLGWcNUh3oCMZf_zChgVhyKlSqUv9pUmK7Pj8)
 
-##Mist Of Pandaria 5.4.8 - Client
+##Mist Of Pandaria 5.4.8 - Cliente 
  
 [DeathCore_5.4.8_Client_Conection_Patch](https://mega.co.nz/#!alE2UBbR!pRGBWCMJbPuZyI6pnDRXD5jnjxrYnfDbguqsadm60iU)
 
